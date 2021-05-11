@@ -192,14 +192,5 @@ We conducted a recommender system in the span of two weeks along with a predicti
  - Sequence-Aware Recommender Systems: [https://arxiv.org/pdf/1802.08452.pdf](https://arxiv.org/pdf/1802.08452.pdf)  
  - RNNs: [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
  
- 
-## Acknowledgements
-We would like to express our special thanks to our Instructors for their endless supports during this course:
- - Mukesh Mithrakumar
- - Husain Amer
- - Amal Alzamel 
- - Amjad Alsulami
- 
- Also, we would like to express our thanks to General Assembly, Misk Academy and the Ministry of Communications and Information Technology of Saudi Arabia for thier generous sponsorsing our course.
 
 
